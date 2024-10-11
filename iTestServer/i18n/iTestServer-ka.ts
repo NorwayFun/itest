@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ka_GE">
+<context>
+    <name>LanguageNames</name>
+    <message>
+        <source>Slovak</source>
+        <translation>სლოვაკური</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation>რუსული</translation>
+    </message>
+    <message>
+        <source>Turkish</source>
+        <translation>თურქული</translation>
+    </message>
+    <message>
+        <source>Portuguese</source>
+        <translation>პორტუგალიური</translation>
+    </message>
+    <message>
+        <source>Spanish</source>
+        <translation>ესპანური</translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation>გერმანული</translation>
+    </message>
+    <message>
+        <source>Italian</source>
+        <translation>იტალიური</translation>
+    </message>
+    <message>
+        <source>Latvian</source>
+        <translation>ლატვიური</translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation>უკრაინული</translation>
+    </message>
+    <message>
+        <source>Czech</source>
+        <translation>ჩეხური</translation>
+    </message>
+    <message>
+        <source>Hungarian</source>
+        <translation>უნგრული</translation>
+    </message>
+</context>
+</TS>
